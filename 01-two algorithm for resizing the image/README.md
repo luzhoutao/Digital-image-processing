@@ -11,6 +11,4 @@ Problem: given a specific pixel in the resized image, determine its intensity. I
 Measurement (quant)
   * recovery rate: shrink and zoom back to original size, and measure the final pixel intensity difference.
   * result: the latter is better. (conform with visual effects)
-  
-  ![](https://postimg.org/image/ut0y4ap8v/)
 
