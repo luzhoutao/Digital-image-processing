@@ -1,14 +1,14 @@
-Two algorithms for resizing the image:##w
-  1. Duplication of nearest pixel: to assign every pixel in the new location by replicating the value of its nearest neighbor
-  2. Bilinear approximation: to estimate the pixels’ value in consideration of its four nearest neighbors
+# Two algorithms for resizing the image:
+  Problem: given a specific pixel in the resized image, determine its intensity. If it has no exact corresponding pixel in the original image, try to estimate it.
+  Proposed solution:
+  1. Duplication of nearest pixel
+    >to assign every pixel in the new location by replicating the value of its nearest neighbor.
   
-Measure the performance by recovery rate.
+  2. Bilinear approximation:
+    >estimate the pixels’ value in consideration of its four nearest neighbors,
+    >solve 4 linear equation generated from four neighbors.
+  
+  Measurement (quant)
+  * recovery rate: shrink and zoom back to original size, and measure the final pixel intensity difference.
+  * result: the latter is better. (conform with visual effects)
 
-Origin image
-![](/01-two%20algorithm%20for%20resizing%20the%20image/Fig0220(a)(chronometer 3692x2812  2pt25 inch 1250 dpi).tif)
-
-Shrink and zoom back by duplication
-![](/01-two%20algorithm%20for%20resizing%20the%20image/zoom_nearest.tif)
-
-Shrink and zoon back by bilinear
-![](/01-two%20algorithm%20for%20resizing%20the%20image/zoom_bilinear.tif)
