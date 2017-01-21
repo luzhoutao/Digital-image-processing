@@ -1,6 +1,6 @@
 # Two algorithms for resizing the image:
-  Problem: given a specific pixel in the resized image, determine its intensity. If it has no exact corresponding pixel in the original image, try to estimate it.
-  Proposed solution:
+Problem: given a specific pixel in the resized image, determine its intensity. If it has no exact corresponding pixel in the original image, try to estimate it.
+<br/>Proposed solution:
   1. Duplication of nearest pixel
     >to assign every pixel in the new location by replicating the value of its nearest neighbor.
   
@@ -8,7 +8,7 @@
     >estimate the pixels’ value in consideration of its four nearest neighbors,
     >solve 4 linear equation generated from four neighbors.
   
-  Measurement (quant)
+Measurement (quant)
   * recovery rate: shrink and zoom back to original size, and measure the final pixel intensity difference.
   * result: the latter is better. (conform with visual effects)
 
