@@ -3,10 +3,10 @@ Two algorithms for resizing the image:
   2. Bilinear approximation
 
 Origin image
-![origin image](https://github.com/luzhoutao/Digital-image-processing/blob/master/01-two%20algorithm%20for%20resizing%20the%20image/Fig0220(a)(chronometer 3692x2812  2pt25 inch 1250 dpi).tif)
+![origin image](https://github.com/luzhoutao/Digital-image-processing/blob/master/01-two%20algorithm%20for%20resizing%20the%20image/Fig0220(a)(chronometer 3692x2812  2pt25 inch 1250 dpi).tif?raw=true)
 
 Shrink and zoom back by duplication
-![duplication](https://github.com/luzhoutao/Digital-image-processing/blob/master/01-two%20algorithm%20for%20resizing%20the%20image/zoom_nearest.tif)
+![duplication](https://github.com/luzhoutao/Digital-image-processing/blob/master/01-two%20algorithm%20for%20resizing%20the%20image/zoom_nearest.tif?raw=true)
 
 Shrink and zoon back by bilinear
-![bilinear](https://github.com/luzhoutao/Digital-image-processing/blob/master/01-two%20algorithm%20for%20resizing%20the%20image/zoom_bilinear.tif)
+![bilinear](https://github.com/luzhoutao/Digital-image-processing/blob/master/01-two%20algorithm%20for%20resizing%20the%20image/zoom_bilinear.tif?raw=true)
