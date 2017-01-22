@@ -12,3 +12,5 @@ Measurement (quant)
   * recovery rate: shrink and zoom back to original size, and measure the final pixel intensity difference.
   * result: the latter is better. (conform with visual effects)
 
+Origin:
+![](https://github.com/luzhoutao/Digital-image-processing/raw/master/01-two%20algorithm%20for%20resizing%20the%20image/Fig0220(a)(chronometer%203692x2812%20%202pt25%20inch%201250%20dpi).tif)
