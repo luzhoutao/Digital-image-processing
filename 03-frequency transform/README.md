@@ -35,13 +35,13 @@ The directory contains:
 | code | description |
 | :---- | ----: |
 | [myDFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myDFT2.m) | the brute force version of DFT |
-| [myFFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myFFT2.m) | the Fast Fourier transform |
-| [myGLPF.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myGLPF.m) | generate the Gaussian lowpass filter in frequency domain |
-| [myGHPF.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myGHPF.m) | generate the Gaussian highpass filter in frequency domain |
-| [myIFFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myIFFT2.m) | the inverse FFT |
-| [myIDFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myIDFT2.m) | the inverse DFT |
 | [myDFT2_matrix](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myDFT2_matrix.m) | the matrix version of DFT |
+| [myIDFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myIDFT2.m) | the inverse DFT |
+| [myFFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myFFT2.m) | the Fast Fourier transform |
+| [myIFFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myIFFT2.m) | the inverse FFT |
 | [twoDFFT.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/twoDFFT.m) | the script for frequency transform |
 | [average_value.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/average_value.m) | the script for DC component vs. average intensity value |
+| [myGLPF.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myGLPF.m) | generate the Gaussian lowpass filter in frequency domain |
 | [lowpass_filtering.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/lowpass_filtering.m) | the script for gaussian lowpass filtering |
+| [myGHPF.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myGHPF.m) | generate the Gaussian highpass filter in frequency domain |
 | [highpass_filtering.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/highpass_filtering.m) | the script for gaussian highpass filtering |
