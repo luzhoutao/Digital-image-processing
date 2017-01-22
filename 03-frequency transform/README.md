@@ -33,7 +33,7 @@ Implement the Gaussian highpass filter of Eq. (4.9-4).
 The directory contains:
 
 | code | description |
-| :---- | ----: |
+| :----: | :----: |
 | [myDFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myDFT2.m) | the brute force version of DFT |
 | [myDFT2_matrix](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myDFT2_matrix.m) | the matrix version of DFT |
 | [myIDFT2.m](https://github.com/luzhoutao/Digital-image-processing/blob/master/03-frequency%20transform/myIDFT2.m) | the inverse DFT |
