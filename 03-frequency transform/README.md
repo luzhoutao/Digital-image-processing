@@ -31,8 +31,9 @@ Implement the Gaussian lowpass filter in Eq. (4.8-7).  You must be able to speci
 Implement the Gaussian highpass filter of Eq. (4.9-4).
 
 The directory contains:
+
 | code | description |
-| ---- | ---- |
+| :---- | ----: |
 | myDFT2.m | the brute force version of DFT |
 | myFFT2.m | the Fast Fourier transform |
 | myGLPF.m | generate the Gaussian lowpass filter in frequency domain |
