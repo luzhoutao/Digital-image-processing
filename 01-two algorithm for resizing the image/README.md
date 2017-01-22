@@ -13,4 +13,4 @@ Measurement (quant)
   * result: the latter is better. (conform with visual effects)
 
 Origin:
-![](https://github.com/luzhoutao/Digital-image-processing/raw/master/01-two%20algorithm%20for%20resizing%20the%20image/Fig0220(a)(chronometer%203692x2812%20%202pt25%20inch%201250%20dpi).tif)
+![fig0220 a chronometer 3692x2812 2pt25 inch 1250 dpi](https://cloud.githubusercontent.com/assets/17675317/22180645/361c6dfc-e0b1-11e6-824b-f39479395ffb.png)
