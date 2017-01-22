@@ -12,4 +12,4 @@ Measurement (quant)
   * recovery rate: shrink and zoom back to original size, and measure the final pixel intensity difference.
   * result: the latter is better. (conform with visual effects)
 
-Click here for detail [report](https://github.com/luzhoutao/Digital-image-processing/files/721851/report.pdf).
+Click here for detail [report]().
