@@ -1,5 +1,4 @@
-# SPEC of PROJECT 03-01
-
+SPEC of PROJECT 03-01
 ## Image Enhancement Using Intensity Transformations   
 
 The focus of this project is to experiment with intensity transformations to enhance an image.  Download Fig. 3.8(a) from the book web site and enhance it using
